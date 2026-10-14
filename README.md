@@ -6,7 +6,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Youtube-Virtual-Production/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Youtube-Virtual-Production?style=flat-square&color=gold" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Youtube-Virtual-Production/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Youtube-Virtual-Production?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Youtube-Virtual-Production/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Youtube-Virtual-Production?style=flat-square&color=blue" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Youtube-Virtual-Production/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -77,72 +77,72 @@ The table below lists leading commercial virtual production suites, sorted in **
 
 Open-source virtual production tooling empowers YouTubers, independent filmmakers, and hackers to build transparent, customizable, and budget-friendly real-time sets. 
 
-The repositories below are **strictly sorted in descending order by GitHub Star counts** and include live social star badges linking directly to each project's stargazers:
+The repositories below are **strictly sorted in descending order by GitHub Stars_Counts** and include live social Stars_Badges linking directly to each project's stargazers:
 
-1. **[CozyClay](https://github.com/NomaDamas/CozyClay)** [![GitHub stars](https://img.shields.io/github/stars/NomaDamas/CozyClay?style=social&color=white)](https://github.com/NomaDamas/CozyClay/stargazers)  
+1. **[CozyClay](https://github.com/NomaDamas/CozyClay)** [![GitHub_Stars](https://img.shields.io/github/stars/NomaDamas/CozyClay?style=social&color=white)](https://github.com/NomaDamas/CozyClay/stargazers)  
    *Open-source previs in the browser.* Block 3D scenes, pose digital avatars, choreograph camera tracks, cut shot sequences, and feed camera parameters directly to generative AI video pipelines.
 
-2. **[CorridorKey Runtime](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime)** [![GitHub stars](https://img.shields.io/github/stars/alexandremendoncaalvaro/CorridorKey-Runtime?style=social&color=white)](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime/stargazers)  
+2. **[CorridorKey Runtime](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime)** [![GitHub_Stars](https://img.shields.io/github/stars/alexandremendoncaalvaro/CorridorKey-Runtime?style=social&color=white)](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime/stargazers)  
    *Native AI chroma keying runtime &amp; OFX plugin for DaVinci Resolve.* Developed in collaboration with Corridor Digital to deliver clean hair extraction, edge despill, and background matting for indie virtual sets.
 
-3. **[UnityChromakey](https://github.com/otdavies/UnityChromakey)** [![GitHub stars](https://img.shields.io/github/stars/otdavies/UnityChromakey?style=social&color=white)](https://github.com/otdavies/UnityChromakey/stargazers)  
+3. **[UnityChromakey](https://github.com/otdavies/UnityChromakey)** [![GitHub_Stars](https://img.shields.io/github/stars/otdavies/UnityChromakey?style=social&color=white)](https://github.com/otdavies/UnityChromakey/stargazers)  
    *GPU-accelerated green-screen and chroma keying solution for Unity.* Engineered for real-time virtual production, live broadcasts, and mixed reality streaming with edge feathering and despill passes.
 
-4. **[awplanet](https://github.com/awplanets/awplanet)** [![GitHub stars](https://img.shields.io/github/stars/awplanets/awplanet?style=social&color=white)](https://github.com/awplanets/awplanet/stargazers)  
+4. **[awplanet](https://github.com/awplanets/awplanet)** [![GitHub_Stars](https://img.shields.io/github/stars/awplanets/awplanet?style=social&color=white)](https://github.com/awplanets/awplanet/stargazers)  
    *AI-native 3D director workbench and virtual production studio.* Built with React, Three.js, and Electron. Features skeletal posing, cinematic camera controls, storyboard timelines, and mobile phone virtual camera piloting.
 
-5. **[Polychase](https://github.com/theartful/polychase)** [![GitHub stars](https://img.shields.io/github/stars/theartful/polychase?style=social&color=white)](https://github.com/theartful/polychase/stargazers)  
+5. **[Polychase](https://github.com/theartful/polychase)** [![GitHub_Stars](https://img.shields.io/github/stars/theartful/polychase?style=social&color=white)](https://github.com/theartful/polychase/stargazers)  
    *Blender motion tracking addon inspired by KeenTools GeoTracker.* Tracks camera movement and geometry in video footage using optical flow and PnP algorithms with real-time 3D pin alignment.
 
-6. **[LabCamera](https://github.com/meshula/LabCamera)** [![GitHub stars](https://img.shields.io/github/stars/meshula/LabCamera?style=social&color=white)](https://github.com/meshula/LabCamera/stargazers)  
+6. **[LabCamera](https://github.com/meshula/LabCamera)** [![GitHub_Stars](https://img.shields.io/github/stars/meshula/LabCamera?style=social&color=white)](https://github.com/meshula/LabCamera/stargazers)  
    *Physically-based camera model for virtual cinematography.* Accurately simulates realistic physical lenses, sensor dimensions, chromatic aberration, and depth of field in virtual environments.
 
-7. **[VPET (Virtual Production Editing Tools)](https://github.com/FilmakademieRnd/VPET)** [![GitHub stars](https://img.shields.io/github/stars/FilmakademieRnd/VPET?style=social&color=white)](https://github.com/FilmakademieRnd/VPET/stargazers)  
+7. **[VPET (Virtual Production Editing Tools)](https://github.com/FilmakademieRnd/VPET)** [![GitHub_Stars](https://img.shields.io/github/stars/FilmakademieRnd/VPET?style=social&color=white)](https://github.com/FilmakademieRnd/VPET/stargazers)  
    *Tablet-based on-set virtual production editor by Filmakademie R&amp;D.* Enables directors, cinematographers, and gaffers to interactively manipulate 3D set assets, lighting rigs, and camera parameters during live shooting.
 
-8. **[godot-ndi](https://github.com/unvermuthet/godot-ndi)** [![GitHub stars](https://img.shields.io/github/stars/unvermuthet/godot-ndi?style=social&color=white)](https://github.com/unvermuthet/godot-ndi/stargazers)  
+8. **[godot-ndi](https://github.com/unvermuthet/godot-ndi)** [![GitHub_Stars](https://img.shields.io/github/stars/unvermuthet/godot-ndi?style=social&color=white)](https://github.com/unvermuthet/godot-ndi/stargazers)  
    *NDI® integration for Godot Engine.* Allows sending and receiving ultra-low-latency video frames over standard local networks, powering lightweight open-source virtual sets and broadcast motion graphics.
 
-9. **[UE5_Spout2_DX12](https://github.com/GPUbrainStorm/UE5_Spout2_DX12)** [![GitHub stars](https://img.shields.io/github/stars/GPUbrainStorm/UE5_Spout2_DX12?style=social&color=white)](https://github.com/GPUbrainStorm/UE5_Spout2_DX12/stargazers)  
+9. **[UE5_Spout2_DX12](https://github.com/GPUbrainStorm/UE5_Spout2_DX12)** [![GitHub_Stars](https://img.shields.io/github/stars/GPUbrainStorm/UE5_Spout2_DX12?style=social&color=white)](https://github.com/GPUbrainStorm/UE5_Spout2_DX12/stargazers)  
    *DirectX 12 Spout2 plugin for Unreal Engine 5.* Facilitates zero-copy GPU memory sharing of real-time render buffers between UE5, OBS Studio, TouchDesigner, Resolume, and Notch for YouTube livestreams.
 
-10. **[Glass Engine](https://github.com/Time-Coder/Glass-Engine)** [![GitHub stars](https://img.shields.io/github/stars/Time-Coder/Glass-Engine?style=social&color=white)](https://github.com/Time-Coder/Glass-Engine/stargazers)  
+10. **[Glass Engine](https://github.com/Time-Coder/Glass-Engine)** [![GitHub_Stars](https://img.shields.io/github/stars/Time-Coder/Glass-Engine?style=social&color=white)](https://github.com/Time-Coder/Glass-Engine/stargazers)  
     *Python-native 3D real-time rendering engine.* Embeds interactive 3D viewports inside PySide6/PyQt5 GUI tools with PBR lighting, deferred shading, bloom, and depth-of-field for bespoke virtual production tools.
 
-11. **[smartphoneremote_ue5](https://github.com/renamedquery/smartphoneremote_ue5)** [![GitHub stars](https://img.shields.io/github/stars/renamedquery/smartphoneremote_ue5?style=social&color=white)](https://github.com/renamedquery/smartphoneremote_ue5/stargazers)  
+11. **[smartphoneremote_ue5](https://github.com/renamedquery/smartphoneremote_ue5)** [![GitHub_Stars](https://img.shields.io/github/stars/renamedquery/smartphoneremote_ue5?style=social&color=white)](https://github.com/renamedquery/smartphoneremote_ue5/stargazers)  
     *Mobile virtual camera controller for Unreal Engine 5.* Uses smartphone sensors (gyroscope, accelerometer) to stream 6-DOF camera tracking telemetry into UE5 cine-cameras via Wi-Fi.
 
-12. **[OWL Virtual Production](https://github.com/Off-World-Live-Collaborative/OWLVirtualProduction)** [![GitHub stars](https://img.shields.io/github/stars/Off-World-Live-Collaborative/OWLVirtualProduction?style=social&color=white)](https://github.com/Off-World-Live-Collaborative/OWLVirtualProduction/stargazers)  
+12. **[OWL Virtual Production](https://github.com/Off-World-Live-Collaborative/OWLVirtualProduction)** [![GitHub_Stars](https://img.shields.io/github/stars/Off-World-Live-Collaborative/OWLVirtualProduction?style=social&color=white)](https://github.com/Off-World-Live-Collaborative/OWLVirtualProduction/stargazers)  
     *Off World Live virtual production reference project.* Demonstrates 360/panoramic streaming, Spout camera output, live compositing, and NDI pipelines within Unreal Engine.
 
-13. **[gl-chromakey](https://github.com/bhj/gl-chromakey)** [![GitHub stars](https://img.shields.io/github/stars/bhj/gl-chromakey?style=social&color=white)](https://github.com/bhj/gl-chromakey/stargazers)  
+13. **[gl-chromakey](https://github.com/bhj/gl-chromakey)** [![GitHub_Stars](https://img.shields.io/github/stars/bhj/gl-chromakey?style=social&color=white)](https://github.com/bhj/gl-chromakey/stargazers)  
     *Real-time GPU-accelerated WebGL chroma keying.* Strips green-screen backgrounds from live HTML5 video elements, webcams, and canvases directly inside browser-based studio apps.
 
-14. **[DogHut-VirtualCamera_forUE4](https://github.com/doghutVP/DogHut-VirtualCamera_forUE4)** [![GitHub stars](https://img.shields.io/github/stars/doghutVP/DogHut-VirtualCamera_forUE4?style=social&color=white)](https://github.com/doghutVP/DogHut-VirtualCamera_forUE4/stargazers)  
+14. **[DogHut-VirtualCamera_forUE4](https://github.com/doghutVP/DogHut-VirtualCamera_forUE4)** [![GitHub_Stars](https://img.shields.io/github/stars/doghutVP/DogHut-VirtualCamera_forUE4?style=social&color=white)](https://github.com/doghutVP/DogHut-VirtualCamera_forUE4/stargazers)  
     *Virtual camera system for real-time filmmaking.* Features lens presets, focus-pulling workflows, and Live Link motion tracking for Unreal Engine virtual stages.
 
-15. **[AI Virtual Director Studio](https://github.com/femnn/ai-virtual-director-studio)** [![GitHub stars](https://img.shields.io/github/stars/femnn/ai-virtual-director-studio?style=social&color=white)](https://github.com/femnn/ai-virtual-director-studio/stargazers)  
+15. **[AI Virtual Director Studio](https://github.com/femnn/ai-virtual-director-studio)** [![GitHub_Stars](https://img.shields.io/github/stars/femnn/ai-virtual-director-studio?style=social&color=white)](https://github.com/femnn/ai-virtual-director-studio/stargazers)  
     *Local-first AI virtual cinematography studio.* Build 3D sets via JSON commands, synchronize multiple smartphone virtual cameras, capture facial performances with FaceCap, and record live camera feeds directly to MP4.
 
-16. **[OpenHUTB Engine](https://github.com/OpenHUTB/engine)** [![GitHub stars](https://img.shields.io/github/stars/OpenHUTB/engine?style=social&color=white)](https://github.com/OpenHUTB/engine/stargazers)  
+16. **[OpenHUTB Engine](https://github.com/OpenHUTB/engine)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenHUTB/engine?style=social&color=white)](https://github.com/OpenHUTB/engine/stargazers)  
     *AAA simulation and cinematic rendering engine.* Employs PhysX, DDGI, and hardware ray tracing with deterministic frame-time budgets tailored for film and virtual studio pipelines.
 
-17. **[OpenTrackIO C++](https://github.com/mosys/opentrackio-cpp)** [![GitHub stars](https://img.shields.io/github/stars/mosys/opentrackio-cpp?style=social&color=white)](https://github.com/mosys/opentrackio-cpp/stargazers)  
+17. **[OpenTrackIO C++](https://github.com/mosys/opentrackio-cpp)** [![GitHub_Stars](https://img.shields.io/github/stars/mosys/opentrackio-cpp?style=social&color=white)](https://github.com/mosys/opentrackio-cpp/stargazers)  
     *Open-source C++ implementation of the SMPTE OpenTrackIO protocol.* Spearheaded by Mo-Sys and adopted by Epic Games; standardizes camera position, rotation, lens focus, zoom, and distortion data for ICVFX.
 
-18. **[Phi Engine](https://github.com/float64co/Phi)** [![GitHub stars](https://img.shields.io/github/stars/float64co/Phi?style=social&color=white)](https://github.com/float64co/Phi/stargazers)  
+18. **[Phi Engine](https://github.com/float64co/Phi)** [![GitHub_Stars](https://img.shields.io/github/stars/float64co/Phi?style=social&color=white)](https://github.com/float64co/Phi/stargazers)  
     *MicroPython-powered game engine inspired by UE5 and Blender.* Features deferred rendering, temporal anti-aliasing (TAA), Bullet physics, and live in-editor scene manipulation.
 
-19. **[rust-FreeD](https://github.com/ssav7912/rust-FreeD)** [![GitHub stars](https://img.shields.io/github/stars/ssav7912/rust-FreeD?style=social&color=white)](https://github.com/ssav7912/rust-FreeD/stargazers)  
+19. **[rust-FreeD](https://github.com/ssav7912/rust-FreeD)** [![GitHub_Stars](https://img.shields.io/github/stars/ssav7912/rust-FreeD?style=social&color=white)](https://github.com/ssav7912/rust-FreeD/stargazers)  
     *Modern Rust implementation of the Free-D camera tracking protocol.* High-efficiency decoding and serialization of UDP tracking packets for robotics and virtual camera heads.
 
-20. **[Red Clover Studio](https://github.com/ShawnTheWriter/red-clover-studio)** [![GitHub stars](https://img.shields.io/github/stars/ShawnTheWriter/red-clover-studio?style=social&color=white)](https://github.com/ShawnTheWriter/red-clover-studio/stargazers)  
+20. **[Red Clover Studio](https://github.com/ShawnTheWriter/red-clover-studio)** [![GitHub_Stars](https://img.shields.io/github/stars/ShawnTheWriter/red-clover-studio?style=social&color=white)](https://github.com/ShawnTheWriter/red-clover-studio/stargazers)  
     *Local-first AI film and microdrama production studio.* Parses scripts into storyboards, animates shots, and synchronizes round-trip edits into DaVinci Resolve.
 
-21. **[FreeD4j](https://github.com/spannercodes/FreeD4j)** [![GitHub stars](https://img.shields.io/github/stars/spannercodes/FreeD4j?style=social&color=white)](https://github.com/spannercodes/FreeD4j/stargazers)  
+21. **[FreeD4j](https://github.com/spannercodes/FreeD4j)** [![GitHub_Stars](https://img.shields.io/github/stars/spannercodes/FreeD4j?style=social&color=white)](https://github.com/spannercodes/FreeD4j/stargazers)  
     *Java library for Free-D camera telemetry.* Parses and validates UDP camera position and orientation packets for broadcast studio switchers and network bridges.
 
-22. **[chroma_key](https://github.com/anphiriel/chroma_key)** [![GitHub stars](https://img.shields.io/github/stars/anphiriel/chroma_key?style=social&color=white)](https://github.com/anphiriel/chroma_key/stargazers)  
+22. **[chroma_key](https://github.com/anphiriel/chroma_key)** [![GitHub_Stars](https://img.shields.io/github/stars/anphiriel/chroma_key?style=social&color=white)](https://github.com/anphiriel/chroma_key/stargazers)  
     *Python &amp; OpenCV real-time chroma key compositor.* Features edge feathering, partial alpha blending, and green color cast suppression for lightweight background replacement.
 
 ---
@@ -203,7 +203,7 @@ Thank you for exploring and utilizing **Awesome-Youtube-Virtual-Production**! If
 1. Fork this repository to your GitHub account.
 2. Add or update tool entries in `README.md` following the established table or list format.
 3. For SaaS products: provide verified specific pricing and explicit free tier/trial limits.
-4. For open-source repos: include the live social star badge linking to its `/stargazers` URL.
+4. For open-source repos: include the live social Stars_Badge linking to its `/stargazers` URL.
 5. Submit a pull request with a clear description of the project.
 
 ---
